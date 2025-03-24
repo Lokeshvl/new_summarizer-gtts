@@ -1,0 +1,8 @@
+streamlit
+beautifulsoup4
+requests
+transformers
+keybert
+sentence-transformers
+TTS
+torch
